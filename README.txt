@@ -16,13 +16,17 @@ Goodshelf displays your goodreads shelves as a widget. Choose beween a link list
 Goodshelf displays your goodreads shelves as a widget. Choose beween a link list and cover images.
 
 * Display a shelf from your Goodreads account
+
 * choose between text links or book covers
+
 * configure how many books are displayed
 
 == Installation ==
 
 * upload the good_shelf.php file to your 'wp-content/plugins' folder. 
+
 * Activate the plugin in the '*plugins*' page
+
 * In the '*appearance > widgets*' page of your wordpress admin, drag and drop the Goodshelf widget into your widgets area.
 
 == Frequently Asked Questions ==
@@ -63,7 +67,7 @@ you have to save your widget. The aforementioned shelves are the defualt shelves
 
 == Changelog ==
 
-= 1.0 =
+= 1.1 =
 
 * Now has widget support. Shortcode is unsupported for the time being.
 
